@@ -1,4 +1,4 @@
-exports.config = {
+exports.config = { //config
     directConnect: true,
     capabilities:{
         'browserName': 'chrome'},
